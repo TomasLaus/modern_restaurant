@@ -1,5 +1,6 @@
 # Restaurant Landing Page
-### [Live Site](restaurantlaus.netlify.app)
+### Live Site
+https://restaurantlaus.netlify.app/
 
 ![Restaurant Landing Page](./src/assets/sample.JPG)
 
